@@ -7,5 +7,5 @@ class Cat
   end
 
 
-  
+
 end
