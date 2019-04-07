@@ -5,6 +5,9 @@ class Cat
   def name
     @this_cats_name
   end
+  def meow
+    puts"meow"
+  end
 end
 
 maru=Cat.new
