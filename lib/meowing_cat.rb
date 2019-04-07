@@ -5,6 +5,7 @@ class Cat
   def name
     @this_cats_name
   end
+end
 
 
 
