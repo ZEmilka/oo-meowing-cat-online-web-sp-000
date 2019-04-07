@@ -6,4 +6,3 @@ class Cat
     @this_cats_name
   end
 end
-
